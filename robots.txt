@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /stream.php
+Allow: /index.php
+
+Disallow: /admin/
+Disallow: /inc/
+
+Sitemap: https://getsportnews.uk/sitemap.xml

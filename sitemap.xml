@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://getsportnews.uk/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://getsportnews.uk/stream.php</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/live-scores</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/contact</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/privacy-policy</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/terms</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/stream/valencia-vs-fc-barcelona-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/liverpool-vs-tottenham-hotspur-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/inter-milan-vs-fiorentina-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/petrolul-ploie-ti-vs-fcsb-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/real-sociedad-vs-osasuna-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/sepsi-osk-vs-fc-farul-constan-a--2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/poli-ia-i-vs-uta-arad-2025-02-06</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/arsenal-vs-newcastle-united-2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/ac-milan-vs-as-rome-2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/bayer-04-leverkusen--vs--fc-k-ln--2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/as-cannes-vs-su-dives-cabourg-2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/u-craiova-vs-u-cluj-2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/stream/real-madrid-vs-legan-s-2025-02-05</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/league/bundesliga</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/champions-league</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/copa-del-rey</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/coppa-italia</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/coupe-de-france</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/dfb-pokal</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/efl-cup</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/europa-league</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/knvb-beker</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/la-liga</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/ligue-1</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/premier-league</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/serie-a</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/league/superliga</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <?php
+  // Adaugă toate meciurile active
+  $query = "SELECT slug, date FROM matches WHERE date >= CURDATE() ORDER BY date";
+  $result = $conn->query($query);
+  while($row = $result->fetch_assoc()) {
+    echo "<url>\n";
+    echo "<loc>https://getsportnews.uk/stream/" . $row['slug'] . "</loc>\n";
+    // Adaugă alternate hreflang
+    echo "<xhtml:link rel=\"alternate\" hreflang=\"x-default\" href=\"https://getsportnews.uk/stream/" . $row['slug'] . "\"/>\n";
+    echo "<xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://getsportnews.uk/stream/" . $row['slug'] . "\"/>\n";
+    echo "<xhtml:link rel=\"alternate\" hreflang=\"ro\" href=\"https://getsportnews.uk/ro/stream/" . $row['slug'] . "\"/>\n";
+    echo "<xhtml:link rel=\"alternate\" hreflang=\"fr\" href=\"https://getsportnews.uk/fr/stream/" . $row['slug'] . "\"/>\n";
+    echo "<xhtml:link rel=\"alternate\" hreflang=\"es\" href=\"https://getsportnews.uk/es/stream/" . $row['slug'] . "\"/>\n";
+    echo "<lastmod>" . date('Y-m-d') . "</lastmod>\n";
+    echo "<changefreq>hourly</changefreq>\n";
+    echo "<priority>0.8</priority>\n";
+    echo "</url>\n";
+  }
+  ?>
+</urlset>
