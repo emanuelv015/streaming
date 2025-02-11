@@ -53,12 +53,13 @@ if ($matches === false || $matches === null) {
             CASE
                 WHEN m.status = 'live' OR (m.date <= NOW() AND DATE_ADD(m.date, INTERVAL 2 HOUR) >= NOW()) THEN 'live'
                 WHEN m.date > NOW() THEN 'upcoming'
-                ELSE 'finished'
+                ELSE 'ended'
             END as real_status
         FROM matches m
         LEFT JOIN teams h ON m.home_team = h.id 
         LEFT JOIN teams a ON m.away_team = a.id 
         LEFT JOIN leagues l ON m.league = l.id
+        WHERE m.date >= CURDATE()
         ORDER BY 
             CASE 
                 WHEN m.status = 'live' THEN 1
@@ -66,7 +67,7 @@ if ($matches === false || $matches === null) {
                 WHEN m.date > DATE_ADD(NOW(), INTERVAL 2 HOUR) THEN 3
                 ELSE 4
             END ASC,
-            m.date DESC
+            m.date ASC
         LIMIT 50";
 
     $result = $conn->query($query);
@@ -87,7 +88,8 @@ if ($matches === false || $matches === null) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('gizokraijaw.net',8911661,document.createElement('script'))</script>
+
+    
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EL1Y7NJQ1S"></script>
     <script>
@@ -97,7 +99,7 @@ if ($matches === false || $matches === null) {
 
     gtag('config', 'G-EL1Y7NJQ1S');
     </script>
-    <script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('groleegni.net',8911657,document.createElement('script'))</script>
+    
     <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',8911633,document.body||document.documentElement)</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -376,6 +378,8 @@ if ($matches === false || $matches === null) {
         .match-time {
             font-size: 0.9rem;
             color: #aaa;
+            text-align: center;
+            margin-top: 5px;
         }
 
         .watch-button {
@@ -539,14 +543,14 @@ if ($matches === false || $matches === null) {
                     <?php
                         $matchDateTime = strtotime($match['date']);
                         $currentTime = time();
-                        $timeUntilStart = $matchDateTime - $currentTime;
-                        $isStartingSoon = ($timeUntilStart > 0 && $timeUntilStart <= 7200);
+                        $timeUntilMatch = $matchDateTime - $currentTime;
+                        $isStreamAvailable = $timeUntilMatch <= 3600 && $timeUntilMatch > -7200; // disponibil cu o oră înainte și până la 2 ore după start
                     ?>
-                    <div class="match-card <?php echo $match['real_status'] === 'live' ? 'live-match' : ($isStartingSoon ? 'starting-soon' : ''); ?>">
+                    <div class="match-card <?php echo $match['real_status'] === 'live' ? 'live-match' : ($isStreamAvailable ? 'starting-soon' : ''); ?>">
                         <?php if ($match['real_status'] === 'live'): ?>
                             <div class="live-badge">LIVE</div>
-                        <?php elseif ($isStartingSoon): ?>
-                            <div class="starting-soon-badge">Starting in <?php echo floor($timeUntilStart / 60); ?> minutes</div>
+                        <?php elseif ($isStreamAvailable): ?>
+                            <div class="starting-soon-badge">Starting in <?php echo floor($timeUntilMatch / 60); ?> minutes</div>
                         <?php endif; ?>
                         <div class="match-header">
                             <div class="d-flex align-items-center">
@@ -579,8 +583,9 @@ if ($matches === false || $matches === null) {
                                     <span class="vs-text">VS</span>
                                     <span class="match-time">
                                         <?php 
-                                            echo date('h:i', $matchDateTime);
-                                            echo date('a', $matchDateTime) === 'am' ? ' AM' : ' PM';
+                                            // Afișăm data și ora
+                                            echo date('d M Y', strtotime($match['date'])) . '<br>';
+                                            echo date('H:i', strtotime($match['date']));
                                         ?>
                                     </span>
                                 </div>
@@ -596,14 +601,17 @@ if ($matches === false || $matches === null) {
                                 </div>
                             </div>
 
-                            <?php
-                                $stream_url = "stream.php?slug=" . urlencode($match['slug']);
-                                $redirect_url = "";
-                            ?>
-                            <a href="<?php echo $stream_url; ?>" class="watch-button" onclick="return handleWatchClick(event, '<?php echo $redirect_url; ?>')">
-                                <i class="fas fa-play-circle"></i>
-                                <?php echo $match['real_status'] === 'live' ? 'Watch Live' : 'Watch Now'; ?>
-                            </a>
+                            <?php if ($isStreamAvailable): ?>
+                                <a href="stream.php?slug=<?php echo urlencode($match['slug']); ?>" class="watch-button">
+                                    <i class="fas fa-play-circle"></i>
+                                    Watch Now
+                                </a>
+                            <?php else: ?>
+                                <button onclick="showStreamWarning('<?php echo date('d M Y H:i', $matchDateTime); ?>')" class="watch-button">
+                                    <i class="fas fa-play-circle"></i>
+                                    Watch Now
+                                </button>
+                            <?php endif; ?>
                         </div>
                     </div>
                 <?php endforeach; ?>
@@ -716,5 +724,41 @@ if ($matches === false || $matches === null) {
         }
     }
     </script>
+
+    <!-- Adăugăm script pentru warning -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+    function showStreamWarning(matchDateTime) {
+        Swal.fire({
+            title: 'Stream Not Available Yet',
+            html: `The stream will be available 1 hour before the match start.<br><br>
+                  Match starts: ${matchDateTime}`,
+            icon: 'info',
+            confirmButtonText: 'OK',
+            confirmButtonColor: '#ff4444'
+        });
+    }
+    </script>
+
+    <?php
+    if (isset($_SESSION['stream_error'])) {
+        $error = $_SESSION['stream_error'];
+        unset($_SESSION['stream_error']);
+        echo "
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                Swal.fire({
+                    title: 'Stream Not Available Yet',
+                    html: `{$error['message']}<br><br>
+                          Match starts: {$error['match_time']}<br>
+                          Time until stream: {$error['time_left']}`,
+                    icon: 'info',
+                    confirmButtonText: 'OK',
+                    confirmButtonColor: '#ff4444'
+                });
+            });
+        </script>";
+    }
+    ?>
 </body>
 </html>

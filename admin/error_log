@@ -1,0 +1,80 @@
+[05-Feb-2025 17:33:05 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/getsport/public_html/admin/leagues.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/getsport/public_html/admin/leagues.php on line 146
+[05-Feb-2025 17:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetchAll() in /home/getsport/public_html/admin/teams.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/getsport/public_html/admin/teams.php on line 50
+[05-Feb-2025 17:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/getsport/public_html/admin/leagues.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/getsport/public_html/admin/leagues.php on line 146
+[05-Feb-2025 17:33:35 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:35:53 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:56:22 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:57:00 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:57:33 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 17:59:59 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 18:00:00 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 18:01:04 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 18:10:55 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 18:12:45 UTC] PHP Notice:  Undefined index: admin_username in /home/getsport/public_html/admin/index.php on line 71
+[05-Feb-2025 20:12:59 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:12:59 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:13:03 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:13:03 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:13:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:13:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:13:08 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:13:08 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:13:13 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:13:13 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:20:00 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:20:00 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:20:20 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:20:20 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:20:41 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:20:41 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:20:45 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:20:45 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:21:01 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:21:01 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:21:15 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:21:15 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:21:57 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:21:57 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:22:02 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:22:02 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:22:11 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:22:11 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:22:17 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:22:17 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:24:21 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:24:21 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:24:21 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:24:21 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:25:43 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 4
+[05-Feb-2025 20:25:43 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 5
+[05-Feb-2025 20:25:43 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:25:43 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:25:53 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 4
+[05-Feb-2025 20:25:53 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 5
+[05-Feb-2025 20:25:53 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:25:53 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:26:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 4
+[05-Feb-2025 20:26:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 5
+[05-Feb-2025 20:26:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 3
+[05-Feb-2025 20:26:07 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 4
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/login.php on line 5
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 4
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 5
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 8
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 9
+[05-Feb-2025 20:29:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/getsport/public_html/admin/auth.php on line 10
+[05-Feb-2025 20:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tooManyAttempts() in /home/getsport/public_html/admin/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/getsport/public_html/admin/login.php on line 32

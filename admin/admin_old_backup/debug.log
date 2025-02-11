@@ -1,0 +1,2882 @@
+[2025-01-25 22:25:39] Request Method: POST
+[2025-01-25 22:25:39] Received POST request
+[2025-01-25 22:25:39] Content-Type: application/x-www-form-urlencoded
+[2025-01-25 22:25:39] Received POST data: {"id":"","league":"Premier League","home_team_id":"72","away_team_id":"75","match_date":"2025-12-22","match_time":"11:11","sport":"football","status":"scheduled","stream_link":"https:\/\/www.youtube.com\/watch?v=aNSEZkxljbk"}
+[2025-01-25 22:25:39] Processed match_time: 2025-12-22 11:11:00
+[2025-01-25 22:25:39] Inserting new event
+[2025-01-25 22:25:39] Insert params: {"league":"Premier League","home_team_id":"72","away_team_id":"75","match_time":"2025-12-22 11:11:00","sport":"football","status":"scheduled","stream_link":"https:\/\/www.youtube.com\/watch?v=aNSEZkxljbk"}
+[2025-01-25 22:25:39] Query executed successfully
+[2025-01-25 22:25:39] Redirecting to index.php with success
+[2025-01-25 22:30:37] Request Method: POST
+[2025-01-25 22:30:37] Received POST request
+[2025-01-25 22:30:37] Content-Type: application/x-www-form-urlencoded
+[2025-01-25 22:30:37] Received POST data: {"id":"","league":"Premier League","home_team_id":"72","away_team_id":"58","match_date":"2025-12-12","match_time":"00:21","sport":"football","status":"scheduled","stream_link":"https:\/\/www.youtube.com\/watch?v=aNSEZkxljbk"}
+[2025-01-25 22:30:37] Processed match_time: 2025-12-12 00:21:00
+[2025-01-25 22:30:37] Inserting new event
+[2025-01-25 22:30:37] Insert params: {"league":"Premier League","home_team_id":"72","away_team_id":"58","match_time":"2025-12-12 00:21:00","sport":"football","status":"scheduled","stream_link":"https:\/\/www.youtube.com\/watch?v=aNSEZkxljbk"}
+[2025-01-25 22:30:37] Query executed successfully
+[2025-01-25 22:30:37] Redirecting to index.php with success
+[2025-01-25 22:42:17] Request Method: POST
+[2025-01-25 22:42:17] Received POST request
+[2025-01-25 22:42:17] Content-Type: application/x-www-form-urlencoded
+[2025-01-25 22:42:17] Received POST data: {"id":"","league":"Premier League","home_team_id":"72","away_team_id":"58","match_date":"1212-12-12","match_time":"12:12","sport":"football","status":"live","stream_link":"https:\/\/www.youtube.com\/watch?v=CEEdEh6OsKc"}
+[2025-01-25 22:42:17] Processed match_time: 1212-12-12 12:12:00
+[2025-01-25 22:42:17] Inserting new event
+[2025-01-25 22:42:17] Insert params: {"league":"Premier League","home_team_id":"72","away_team_id":"58","match_time":"1212-12-12 12:12:00","sport":"football","status":"live","stream_link":"https:\/\/www.youtube.com\/watch?v=CEEdEh6OsKc"}
+[2025-01-25 22:42:17] Query executed successfully
+[2025-01-25 22:42:17] Redirecting to index.php with success
+[2025-01-26 10:53:58] Received POST request
+[2025-01-26 10:53:58] Form data: {"league":"Champions League","home_team":"73","away_team":"43","match_time":"2025-12-01T00:50","stream_link":"https:\/\/www.youtube.com\/watch?v=2q4uxIS8678"}
+[2025-01-26 10:53:58] Event successfully saved
+[2025-01-26 10:57:34] Received POST request
+[2025-01-26 10:57:34] Form data: {"league":"Champions League","home_team":"58","away_team":"58","match_time":"2025-01-26T12:25","stream_link":"https:\/\/www.youtube.com\/watch?v=2q4uxIS8678"}
+[2025-01-26 10:57:34] Event successfully saved
+[2025-01-26 11:18:43] Attempting to delete event with ID: 8
+[2025-01-26 11:18:43] Event deleted successfully
+[2025-01-26 11:18:46] Attempting to delete event with ID: 9
+[2025-01-26 11:18:46] Event deleted successfully
+[2025-01-26 11:18:49] Attempting to delete event with ID: 11
+[2025-01-26 11:18:49] Event deleted successfully
+Attempting to connect to database at 2025-01-26 09:37:38
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:37:38
+Attempting to connect to database at 2025-01-26 09:37:44
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:37:44
+Attempting to connect to database at 2025-01-26 09:37:46
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:37:46
+Attempting to connect to database at 2025-01-26 09:39:02
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:39:02
+Attempting to connect to database at 2025-01-26 09:39:07
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:39:07
+Attempting to connect to database at 2025-01-26 09:39:57
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:39:57
+Attempting to connect to database at 2025-01-26 09:40:26
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:40:26
+Attempting to connect to database at 2025-01-26 09:40:28
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:40:28
+Attempting to connect to database at 2025-01-26 09:40:39
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:40:39
+Attempting to connect to database at 2025-01-26 09:42:30
+Host: sql210.infinityfree.com
+Database: if0_38129238_wordpress
+Database connection successful at 2025-01-26 09:42:30
+Attempting to connect to database at 2025-02-04 22:21:34
+Host: localhost
+Database: getsport_stream
+Connection failed: Access denied for user 'getsport_streamer'@'localhost' (using password: YES)
+PHP version: 8.0.30
+MySQL client version: mysqlnd 8.0.30
+Attempting to connect to database at 2025-02-04 22:24:30
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:24:30
+Attempting to connect to database at 2025-02-04 22:25:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:25:25
+Attempting to connect to database at 2025-02-04 22:26:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:26:40
+Attempting to connect to database at 2025-02-04 22:26:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:26:51
+Attempting to connect to database at 2025-02-04 22:26:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:26:59
+Attempting to connect to database at 2025-02-04 22:28:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:28:43
+Attempting to connect to database at 2025-02-04 22:29:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:29:22
+Attempting to connect to database at 2025-02-04 22:29:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:29:36
+Attempting to connect to database at 2025-02-04 22:30:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:30:16
+Attempting to connect to database at 2025-02-04 22:31:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:17
+Attempting to connect to database at 2025-02-04 22:31:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:18
+Attempting to connect to database at 2025-02-04 22:31:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:18
+Attempting to connect to database at 2025-02-04 22:31:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:22
+Attempting to connect to database at 2025-02-04 22:31:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:45
+Attempting to connect to database at 2025-02-04 22:31:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:46
+Attempting to connect to database at 2025-02-04 22:31:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:56
+Attempting to connect to database at 2025-02-04 22:31:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:31:57
+Attempting to connect to database at 2025-02-04 22:32:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:32:38
+Attempting to connect to database at 2025-02-04 22:32:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:32:39
+Attempting to connect to database at 2025-02-04 22:32:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:32:39
+Attempting to connect to database at 2025-02-04 22:32:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:32:39
+Attempting to connect to database at 2025-02-04 22:33:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:33:33
+Attempting to connect to database at 2025-02-04 22:34:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:01
+Attempting to connect to database at 2025-02-04 22:34:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:05
+Attempting to connect to database at 2025-02-04 22:34:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:17
+Attempting to connect to database at 2025-02-04 22:34:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:18
+Attempting to connect to database at 2025-02-04 22:34:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:18
+Attempting to connect to database at 2025-02-04 22:34:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:18
+Attempting to connect to database at 2025-02-04 22:34:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:19
+Attempting to connect to database at 2025-02-04 22:34:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:19
+Attempting to connect to database at 2025-02-04 22:34:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:19
+Attempting to connect to database at 2025-02-04 22:34:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:43
+Attempting to connect to database at 2025-02-04 22:34:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:44
+Attempting to connect to database at 2025-02-04 22:34:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:46
+Attempting to connect to database at 2025-02-04 22:34:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:46
+Attempting to connect to database at 2025-02-04 22:34:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:47
+Attempting to connect to database at 2025-02-04 22:34:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:47
+Attempting to connect to database at 2025-02-04 22:34:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:47
+Attempting to connect to database at 2025-02-04 22:34:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:48
+Attempting to connect to database at 2025-02-04 22:34:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:48
+Attempting to connect to database at 2025-02-04 22:34:53
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:53
+Attempting to connect to database at 2025-02-04 22:34:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:34:54
+Attempting to connect to database at 2025-02-04 22:35:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:35:22
+Attempting to connect to database at 2025-02-04 22:35:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:35:23
+Attempting to connect to database at 2025-02-04 22:35:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:35:23
+Attempting to connect to database at 2025-02-04 22:35:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:35:54
+Attempting to connect to database at 2025-02-04 22:36:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:36:50
+Attempting to connect to database at 2025-02-04 22:37:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:37:42
+Attempting to connect to database at 2025-02-04 22:37:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:37:45
+Attempting to connect to database at 2025-02-04 22:37:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:37:49
+Attempting to connect to database at 2025-02-04 22:37:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:37:52
+Attempting to connect to database at 2025-02-04 22:38:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:38:00
+Attempting to connect to database at 2025-02-04 22:38:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:38:01
+Attempting to connect to database at 2025-02-04 22:39:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:17
+Attempting to connect to database at 2025-02-04 22:39:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:18
+Attempting to connect to database at 2025-02-04 22:39:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:45
+Attempting to connect to database at 2025-02-04 22:39:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:46
+Attempting to connect to database at 2025-02-04 22:39:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:46
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:47
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:39:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:39:48
+Attempting to connect to database at 2025-02-04 22:40:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:00
+Attempting to connect to database at 2025-02-04 22:40:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:02
+Attempting to connect to database at 2025-02-04 22:40:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:42
+Attempting to connect to database at 2025-02-04 22:40:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:43
+Attempting to connect to database at 2025-02-04 22:40:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:44
+Attempting to connect to database at 2025-02-04 22:40:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:49
+Attempting to connect to database at 2025-02-04 22:40:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:54
+Attempting to connect to database at 2025-02-04 22:40:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:55
+Attempting to connect to database at 2025-02-04 22:40:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:56
+Attempting to connect to database at 2025-02-04 22:40:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:40:57
+Attempting to connect to database at 2025-02-04 22:41:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:41:02
+Attempting to connect to database at 2025-02-04 22:41:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:41:24
+Attempting to connect to database at 2025-02-04 22:41:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:41:32
+Attempting to connect to database at 2025-02-04 22:42:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:42:03
+Attempting to connect to database at 2025-02-04 22:42:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:42:33
+Attempting to connect to database at 2025-02-04 22:43:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:43:05
+Attempting to connect to database at 2025-02-04 22:44:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:44:40
+Attempting to connect to database at 2025-02-04 22:44:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:44:59
+Attempting to connect to database at 2025-02-04 22:45:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:45:00
+Attempting to connect to database at 2025-02-04 22:45:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:45:09
+Attempting to connect to database at 2025-02-04 22:46:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:46:10
+Attempting to connect to database at 2025-02-04 22:48:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:48:47
+Attempting to connect to database at 2025-02-04 22:48:53
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:48:53
+Attempting to connect to database at 2025-02-04 22:49:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:49:56
+Attempting to connect to database at 2025-02-04 22:50:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:50:32
+Attempting to connect to database at 2025-02-04 22:50:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:50:44
+Attempting to connect to database at 2025-02-04 22:50:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:50:51
+Attempting to connect to database at 2025-02-04 22:50:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:50:58
+Attempting to connect to database at 2025-02-04 22:53:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:14
+Attempting to connect to database at 2025-02-04 22:53:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:15
+Attempting to connect to database at 2025-02-04 22:53:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:23
+Attempting to connect to database at 2025-02-04 22:53:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:24
+Attempting to connect to database at 2025-02-04 22:53:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:25
+Attempting to connect to database at 2025-02-04 22:53:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:38
+Attempting to connect to database at 2025-02-04 22:53:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:53:42
+Attempting to connect to database at 2025-02-04 22:54:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:04
+Attempting to connect to database at 2025-02-04 22:54:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:37
+Attempting to connect to database at 2025-02-04 22:54:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:38
+Attempting to connect to database at 2025-02-04 22:54:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:44
+Attempting to connect to database at 2025-02-04 22:54:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:45
+Attempting to connect to database at 2025-02-04 22:54:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:54:49
+Attempting to connect to database at 2025-02-04 22:55:27
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:27
+Attempting to connect to database at 2025-02-04 22:55:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:28
+Attempting to connect to database at 2025-02-04 22:55:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:34
+Attempting to connect to database at 2025-02-04 22:55:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:36
+Attempting to connect to database at 2025-02-04 22:55:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:37
+Attempting to connect to database at 2025-02-04 22:55:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:37
+Attempting to connect to database at 2025-02-04 22:55:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:38
+Attempting to connect to database at 2025-02-04 22:55:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:38
+Attempting to connect to database at 2025-02-04 22:55:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:51
+Attempting to connect to database at 2025-02-04 22:55:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:55
+Attempting to connect to database at 2025-02-04 22:55:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:57
+Attempting to connect to database at 2025-02-04 22:55:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:55:58
+Attempting to connect to database at 2025-02-04 22:58:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:58:54
+Attempting to connect to database at 2025-02-04 22:58:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 22:58:59
+Attempting to connect to database at 2025-02-04 23:01:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:01:28
+Attempting to connect to database at 2025-02-04 23:01:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:01:59
+Attempting to connect to database at 2025-02-04 23:02:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:02:00
+Attempting to connect to database at 2025-02-04 23:02:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:02:34
+Attempting to connect to database at 2025-02-04 23:02:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:02:34
+Attempting to connect to database at 2025-02-04 23:03:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:03
+Attempting to connect to database at 2025-02-04 23:03:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:03
+Attempting to connect to database at 2025-02-04 23:03:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:04
+Attempting to connect to database at 2025-02-04 23:03:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:04
+Attempting to connect to database at 2025-02-04 23:03:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:05
+Attempting to connect to database at 2025-02-04 23:03:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:05
+Attempting to connect to database at 2025-02-04 23:03:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:06
+Attempting to connect to database at 2025-02-04 23:03:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:06
+Attempting to connect to database at 2025-02-04 23:03:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:06
+Attempting to connect to database at 2025-02-04 23:03:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:06
+Attempting to connect to database at 2025-02-04 23:03:07
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:07
+Attempting to connect to database at 2025-02-04 23:03:07
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:07
+Attempting to connect to database at 2025-02-04 23:03:08
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:08
+Attempting to connect to database at 2025-02-04 23:03:08
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:08
+Attempting to connect to database at 2025-02-04 23:03:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:09
+Attempting to connect to database at 2025-02-04 23:03:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:09
+Attempting to connect to database at 2025-02-04 23:03:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:09
+Attempting to connect to database at 2025-02-04 23:03:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:09
+Attempting to connect to database at 2025-02-04 23:03:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:10
+Attempting to connect to database at 2025-02-04 23:03:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:10
+Attempting to connect to database at 2025-02-04 23:03:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:14
+Attempting to connect to database at 2025-02-04 23:03:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:14
+Attempting to connect to database at 2025-02-04 23:03:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:54
+Attempting to connect to database at 2025-02-04 23:03:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:55
+Attempting to connect to database at 2025-02-04 23:03:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:59
+Attempting to connect to database at 2025-02-04 23:03:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:03:59
+Attempting to connect to database at 2025-02-04 23:04:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:01
+Attempting to connect to database at 2025-02-04 23:04:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:01
+Attempting to connect to database at 2025-02-04 23:04:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:01
+Attempting to connect to database at 2025-02-04 23:04:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:01
+Attempting to connect to database at 2025-02-04 23:04:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:02
+Attempting to connect to database at 2025-02-04 23:04:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:02
+Attempting to connect to database at 2025-02-04 23:04:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:03
+Attempting to connect to database at 2025-02-04 23:04:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:03
+Attempting to connect to database at 2025-02-04 23:04:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:51
+Attempting to connect to database at 2025-02-04 23:04:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:04:52
+Attempting to connect to database at 2025-02-04 23:05:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:05:17
+Attempting to connect to database at 2025-02-04 23:05:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:05:54
+Attempting to connect to database at 2025-02-04 23:05:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:05:55
+Attempting to connect to database at 2025-02-04 23:08:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:08:28
+Attempting to connect to database at 2025-02-04 23:08:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:08:37
+Attempting to connect to database at 2025-02-04 23:08:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:08:43
+Attempting to connect to database at 2025-02-04 23:09:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:09:01
+[2025-02-04 23:09:01] Received POST request
+[2025-02-04 23:09:01] Form data: {"league":"7","home_team":"76","away_team":"75","match_time":"22:00","stream_link":""}
+[2025-02-04 23:09:01] Eroare la adăugare meci: Toate câmpurile sunt obligatorii!
+Attempting to connect to database at 2025-02-04 23:09:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:09:04
+Attempting to connect to database at 2025-02-04 23:09:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:09:06
+Attempting to connect to database at 2025-02-04 23:09:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:09:10
+Attempting to connect to database at 2025-02-04 23:09:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:09:58
+Attempting to connect to database at 2025-02-04 23:10:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:10:42
+Attempting to connect to database at 2025-02-04 23:11:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:11:05
+Attempting to connect to database at 2025-02-04 23:11:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:11:16
+Attempting to connect to database at 2025-02-04 23:11:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:11:31
+[2025-02-04 23:11:31] Received POST request
+[2025-02-04 23:11:31] Form data: {"league":"1","home_team":"72","away_team":"43","match_time":"10:00","stream_link":"https:\/\/canale-tv.com\/channel\/dgsp3.html"}
+[2025-02-04 23:11:31] Eroare la adăugare meci: Eroare la pregătirea interogării: Query was empty
+Attempting to connect to database at 2025-02-04 23:12:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:12:02
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:10
+Attempting to connect to database at 2025-02-04 23:13:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:11
+Attempting to connect to database at 2025-02-04 23:13:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:11
+Attempting to connect to database at 2025-02-04 23:13:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:11
+Attempting to connect to database at 2025-02-04 23:13:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:11
+Attempting to connect to database at 2025-02-04 23:13:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:11
+Attempting to connect to database at 2025-02-04 23:13:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:12
+Attempting to connect to database at 2025-02-04 23:13:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:12
+Attempting to connect to database at 2025-02-04 23:13:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:12
+Attempting to connect to database at 2025-02-04 23:13:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:12
+Attempting to connect to database at 2025-02-04 23:13:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:12
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:14
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:18
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:19
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:20
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:21
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:22
+Attempting to connect to database at 2025-02-04 23:13:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:23
+Attempting to connect to database at 2025-02-04 23:13:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:23
+Attempting to connect to database at 2025-02-04 23:13:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:23
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:24
+Attempting to connect to database at 2025-02-04 23:13:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:28
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:48
+Attempting to connect to database at 2025-02-04 23:13:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:49
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:50
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:13:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:13:55
+Attempting to connect to database at 2025-02-04 23:14:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:14:26
+Attempting to connect to database at 2025-02-04 23:15:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:03
+Attempting to connect to database at 2025-02-04 23:15:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:06
+Attempting to connect to database at 2025-02-04 23:15:07
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:07
+Attempting to connect to database at 2025-02-04 23:15:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:17
+Attempting to connect to database at 2025-02-04 23:15:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:21
+Attempting to connect to database at 2025-02-04 23:15:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:15:57
+Attempting to connect to database at 2025-02-04 23:16:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:16:01
+Attempting to connect to database at 2025-02-04 23:17:00
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:17:00
+Attempting to connect to database at 2025-02-04 23:17:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:17:01
+Attempting to connect to database at 2025-02-04 23:17:29
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:17:29
+Attempting to connect to database at 2025-02-04 23:17:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:17:38
+Attempting to connect to database at 2025-02-04 23:40:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:40:39
+Attempting to connect to database at 2025-02-04 23:40:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:40:40
+Attempting to connect to database at 2025-02-04 23:40:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:40:47
+Attempting to connect to database at 2025-02-04 23:40:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:40:49
+Attempting to connect to database at 2025-02-04 23:41:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:20
+Attempting to connect to database at 2025-02-04 23:41:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:23
+Attempting to connect to database at 2025-02-04 23:41:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:54
+Attempting to connect to database at 2025-02-04 23:41:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:55
+Attempting to connect to database at 2025-02-04 23:41:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:55
+Attempting to connect to database at 2025-02-04 23:41:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:41:56
+Attempting to connect to database at 2025-02-04 23:45:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:45:44
+Attempting to connect to database at 2025-02-04 23:45:53
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:45:53
+Attempting to connect to database at 2025-02-04 23:45:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:45:56
+Attempting to connect to database at 2025-02-04 23:46:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:46:35
+Attempting to connect to database at 2025-02-04 23:49:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:49:28
+Attempting to connect to database at 2025-02-04 23:51:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:51:24
+Attempting to connect to database at 2025-02-04 23:51:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:51:26
+Attempting to connect to database at 2025-02-04 23:58:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-04 23:58:58
+Attempting to connect to database at 2025-02-05 00:00:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:00:47
+Attempting to connect to database at 2025-02-05 00:00:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:00:55
+Attempting to connect to database at 2025-02-05 00:00:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:00:57
+Attempting to connect to database at 2025-02-05 00:00:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:00:59
+Attempting to connect to database at 2025-02-05 00:01:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:01:02
+Attempting to connect to database at 2025-02-05 00:02:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:11
+Attempting to connect to database at 2025-02-05 00:02:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:13
+Attempting to connect to database at 2025-02-05 00:02:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:14
+Attempting to connect to database at 2025-02-05 00:02:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:15
+Attempting to connect to database at 2025-02-05 00:02:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:16
+Attempting to connect to database at 2025-02-05 00:02:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:31
+Attempting to connect to database at 2025-02-05 00:02:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:02:33
+Attempting to connect to database at 2025-02-05 00:04:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:04:34
+Attempting to connect to database at 2025-02-05 00:04:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:04:43
+Attempting to connect to database at 2025-02-04 23:11:38
+Host: localhost
+Database: streamthunder_events
+Attempting to connect to database at 2025-02-05 00:16:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:16:13
+Attempting to connect to database at 2025-02-05 00:16:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:16:14
+Attempting to connect to database at 2025-02-05 00:16:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:16:58
+Attempting to connect to database at 2025-02-05 00:19:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:19:06
+Attempting to connect to database at 2025-02-05 00:19:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:19:06
+Attempting to connect to database at 2025-02-05 00:19:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:19:13
+Attempting to connect to database at 2025-02-05 00:19:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:19:14
+Attempting to connect to database at 2025-02-05 00:20:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:20:57
+Attempting to connect to database at 2025-02-05 00:24:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:24:42
+Attempting to connect to database at 2025-02-05 00:24:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:24:44
+Attempting to connect to database at 2025-02-05 00:24:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:24:49
+Attempting to connect to database at 2025-02-05 00:26:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:26:59
+Attempting to connect to database at 2025-02-05 00:28:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:28:10
+Attempting to connect to database at 2025-02-05 00:29:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:29:46
+Attempting to connect to database at 2025-02-05 00:29:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:29:47
+Attempting to connect to database at 2025-02-05 00:33:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:33:37
+Attempting to connect to database at 2025-02-05 00:33:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:33:46
+Attempting to connect to database at 2025-02-05 00:37:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:37:03
+Attempting to connect to database at 2025-02-05 00:37:05
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:37:05
+Attempting to connect to database at 2025-02-05 00:37:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:37:43
+Attempting to connect to database at 2025-02-05 00:38:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:38:34
+Attempting to connect to database at 2025-02-05 00:38:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:38:35
+Attempting to connect to database at 2025-02-05 00:38:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:38:50
+Attempting to connect to database at 2025-02-05 00:38:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:38:58
+Attempting to connect to database at 2025-02-05 00:45:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:45:01
+Attempting to connect to database at 2025-02-05 00:45:53
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:45:53
+Attempting to connect to database at 2025-02-05 00:46:29
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:46:29
+Attempting to connect to database at 2025-02-05 00:46:30
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:46:30
+Attempting to connect to database at 2025-02-05 00:46:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:46:50
+Attempting to connect to database at 2025-02-05 00:46:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:46:52
+Attempting to connect to database at 2025-02-05 00:48:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:48:36
+Attempting to connect to database at 2025-02-05 00:50:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:50:41
+Attempting to connect to database at 2025-02-05 00:50:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:50:42
+Attempting to connect to database at 2025-02-05 00:51:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:51:23
+Attempting to connect to database at 2025-02-05 00:53:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:53:33
+Attempting to connect to database at 2025-02-05 00:55:30
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:55:30
+Attempting to connect to database at 2025-02-05 00:57:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 00:57:35
+Attempting to connect to database at 2025-02-05 11:50:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 11:50:40
+Attempting to connect to database at 2025-02-05 11:57:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 11:57:21
+Attempting to connect to database at 2025-02-05 11:57:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 11:57:44
+Attempting to connect to database at 2025-02-05 11:58:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 11:58:45
+Attempting to connect to database at 2025-02-05 11:58:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 11:58:58
+Attempting to connect to database at 2025-02-05 12:00:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:00:45
+Attempting to connect to database at 2025-02-05 12:00:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:00:52
+Attempting to connect to database at 2025-02-05 12:02:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:55
+Attempting to connect to database at 2025-02-05 12:02:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:56
+Attempting to connect to database at 2025-02-05 12:02:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:57
+Attempting to connect to database at 2025-02-05 12:02:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:57
+Attempting to connect to database at 2025-02-05 12:02:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:57
+Attempting to connect to database at 2025-02-05 12:02:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:02:57
+Attempting to connect to database at 2025-02-05 12:03:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:03:01
+Attempting to connect to database at 2025-02-05 12:11:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:11:18
+Attempting to connect to database at 2025-02-05 12:11:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:11:19
+Attempting to connect to database at 2025-02-05 12:11:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:11:26
+Attempting to connect to database at 2025-02-05 12:13:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:13:33
+Attempting to connect to database at 2025-02-05 12:13:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:13:35
+Attempting to connect to database at 2025-02-05 12:15:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:15:25
+Attempting to connect to database at 2025-02-05 12:15:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:15:26
+Attempting to connect to database at 2025-02-05 12:18:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:25
+Attempting to connect to database at 2025-02-05 12:18:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:36
+Attempting to connect to database at 2025-02-05 12:18:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:36
+Attempting to connect to database at 2025-02-05 12:18:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:37
+Attempting to connect to database at 2025-02-05 12:18:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:37
+Attempting to connect to database at 2025-02-05 12:18:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:37
+Attempting to connect to database at 2025-02-05 12:18:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:37
+Attempting to connect to database at 2025-02-05 12:18:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:38
+Attempting to connect to database at 2025-02-05 12:18:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:39
+Attempting to connect to database at 2025-02-05 12:18:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:39
+Attempting to connect to database at 2025-02-05 12:18:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:39
+Attempting to connect to database at 2025-02-05 12:18:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:39
+Attempting to connect to database at 2025-02-05 12:18:39
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:39
+Attempting to connect to database at 2025-02-05 12:18:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:40
+Attempting to connect to database at 2025-02-05 12:18:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:40
+Attempting to connect to database at 2025-02-05 12:18:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:41
+Attempting to connect to database at 2025-02-05 12:18:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:41
+Attempting to connect to database at 2025-02-05 12:18:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:41
+Attempting to connect to database at 2025-02-05 12:18:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:41
+Attempting to connect to database at 2025-02-05 12:18:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:42
+Attempting to connect to database at 2025-02-05 12:18:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:42
+Attempting to connect to database at 2025-02-05 12:18:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:43
+Attempting to connect to database at 2025-02-05 12:18:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:44
+Attempting to connect to database at 2025-02-05 12:18:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:44
+Attempting to connect to database at 2025-02-05 12:18:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:44
+Attempting to connect to database at 2025-02-05 12:18:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:45
+Attempting to connect to database at 2025-02-05 12:18:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:45
+Attempting to connect to database at 2025-02-05 12:18:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:46
+Attempting to connect to database at 2025-02-05 12:18:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:18:46
+Attempting to connect to database at 2025-02-05 12:21:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:21:58
+Attempting to connect to database at 2025-02-05 12:21:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:21:59
+Attempting to connect to database at 2025-02-05 12:22:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:15
+Attempting to connect to database at 2025-02-05 12:22:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:16
+Attempting to connect to database at 2025-02-05 12:22:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:16
+Attempting to connect to database at 2025-02-05 12:22:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:17
+Attempting to connect to database at 2025-02-05 12:22:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:17
+Attempting to connect to database at 2025-02-05 12:22:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:17
+Attempting to connect to database at 2025-02-05 12:22:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:22:19
+Attempting to connect to database at 2025-02-05 12:23:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:12
+Attempting to connect to database at 2025-02-05 12:23:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:13
+Attempting to connect to database at 2025-02-05 12:23:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:14
+Attempting to connect to database at 2025-02-05 12:23:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:14
+Attempting to connect to database at 2025-02-05 12:23:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:14
+Attempting to connect to database at 2025-02-05 12:23:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:15
+Attempting to connect to database at 2025-02-05 12:23:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:15
+Attempting to connect to database at 2025-02-05 12:23:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:16
+Attempting to connect to database at 2025-02-05 12:23:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:16
+Attempting to connect to database at 2025-02-05 12:23:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:17
+Attempting to connect to database at 2025-02-05 12:23:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:17
+Attempting to connect to database at 2025-02-05 12:23:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:17
+Attempting to connect to database at 2025-02-05 12:23:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:17
+Attempting to connect to database at 2025-02-05 12:23:17
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:17
+Attempting to connect to database at 2025-02-05 12:23:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:18
+Attempting to connect to database at 2025-02-05 12:23:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:19
+Attempting to connect to database at 2025-02-05 12:23:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:20
+Attempting to connect to database at 2025-02-05 12:23:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:23:23
+Attempting to connect to database at 2025-02-05 12:24:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:24:37
+Attempting to connect to database at 2025-02-05 12:25:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:25:44
+Attempting to connect to database at 2025-02-05 12:25:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:25:44
+Attempting to connect to database at 2025-02-05 12:26:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:26:22
+Attempting to connect to database at 2025-02-05 12:26:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:26:36
+Attempting to connect to database at 2025-02-05 12:27:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:27:25
+Attempting to connect to database at 2025-02-05 12:27:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:27:48
+Attempting to connect to database at 2025-02-05 12:27:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:27:58
+Attempting to connect to database at 2025-02-05 12:29:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:04
+Attempting to connect to database at 2025-02-05 12:29:08
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:08
+Attempting to connect to database at 2025-02-05 12:29:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:10
+Attempting to connect to database at 2025-02-05 12:29:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:11
+Attempting to connect to database at 2025-02-05 12:29:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:11
+Attempting to connect to database at 2025-02-05 12:29:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:13
+Attempting to connect to database at 2025-02-05 12:29:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:14
+Attempting to connect to database at 2025-02-05 12:29:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:14
+Attempting to connect to database at 2025-02-05 12:29:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:19
+Attempting to connect to database at 2025-02-05 12:29:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:37
+Attempting to connect to database at 2025-02-05 12:29:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:48
+Attempting to connect to database at 2025-02-05 12:29:55
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:29:55
+Attempting to connect to database at 2025-02-05 12:30:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:30:13
+Attempting to connect to database at 2025-02-05 12:30:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:30:32
+Attempting to connect to database at 2025-02-05 12:30:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:30:54
+Attempting to connect to database at 2025-02-05 12:31:08
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:31:08
+Attempting to connect to database at 2025-02-05 12:34:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:34:35
+Attempting to connect to database at 2025-02-05 12:36:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:36:59
+Attempting to connect to database at 2025-02-05 12:37:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:40
+Attempting to connect to database at 2025-02-05 12:37:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:40
+Attempting to connect to database at 2025-02-05 12:37:41
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:41
+Attempting to connect to database at 2025-02-05 12:37:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:42
+Attempting to connect to database at 2025-02-05 12:37:42
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:42
+Attempting to connect to database at 2025-02-05 12:37:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:45
+Attempting to connect to database at 2025-02-05 12:37:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:46
+Attempting to connect to database at 2025-02-05 12:37:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:46
+Attempting to connect to database at 2025-02-05 12:37:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:47
+Attempting to connect to database at 2025-02-05 12:37:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:37:48
+Attempting to connect to database at 2025-02-05 12:38:25
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:38:25
+Attempting to connect to database at 2025-02-05 12:40:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:40:28
+Attempting to connect to database at 2025-02-05 12:42:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:38
+Attempting to connect to database at 2025-02-05 12:42:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:46
+Attempting to connect to database at 2025-02-05 12:42:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:47
+Attempting to connect to database at 2025-02-05 12:42:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:48
+Attempting to connect to database at 2025-02-05 12:42:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:48
+Attempting to connect to database at 2025-02-05 12:42:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:42:49
+Attempting to connect to database at 2025-02-05 12:43:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:43:21
+Attempting to connect to database at 2025-02-05 12:44:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:45
+Attempting to connect to database at 2025-02-05 12:44:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:46
+Attempting to connect to database at 2025-02-05 12:44:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:46
+Attempting to connect to database at 2025-02-05 12:44:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:46
+Attempting to connect to database at 2025-02-05 12:44:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:47
+Attempting to connect to database at 2025-02-05 12:44:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:47
+Attempting to connect to database at 2025-02-05 12:44:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:47
+Attempting to connect to database at 2025-02-05 12:44:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:47
+Attempting to connect to database at 2025-02-05 12:44:47
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:47
+Attempting to connect to database at 2025-02-05 12:44:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:48
+Attempting to connect to database at 2025-02-05 12:44:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:48
+Attempting to connect to database at 2025-02-05 12:44:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:48
+Attempting to connect to database at 2025-02-05 12:44:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:48
+Attempting to connect to database at 2025-02-05 12:44:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:49
+Attempting to connect to database at 2025-02-05 12:44:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:49
+Attempting to connect to database at 2025-02-05 12:44:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:49
+Attempting to connect to database at 2025-02-05 12:44:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:49
+Attempting to connect to database at 2025-02-05 12:44:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:49
+Attempting to connect to database at 2025-02-05 12:44:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:50
+Attempting to connect to database at 2025-02-05 12:44:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:50
+Attempting to connect to database at 2025-02-05 12:44:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:50
+Attempting to connect to database at 2025-02-05 12:44:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:50
+Attempting to connect to database at 2025-02-05 12:44:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:50
+Attempting to connect to database at 2025-02-05 12:44:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:51
+Attempting to connect to database at 2025-02-05 12:44:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:51
+Attempting to connect to database at 2025-02-05 12:44:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:51
+Attempting to connect to database at 2025-02-05 12:44:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:56
+Attempting to connect to database at 2025-02-05 12:44:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:57
+Attempting to connect to database at 2025-02-05 12:44:58
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:44:58
+Attempting to connect to database at 2025-02-05 12:45:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:45:32
+Attempting to connect to database at 2025-02-05 12:45:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:45:50
+Attempting to connect to database at 2025-02-05 12:45:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:45:54
+Attempting to connect to database at 2025-02-05 12:45:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:45:56
+Attempting to connect to database at 2025-02-05 12:47:12
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:47:12
+Attempting to connect to database at 2025-02-05 12:50:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:50:20
+Attempting to connect to database at 2025-02-05 12:50:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:50:48
+Attempting to connect to database at 2025-02-05 12:50:59
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:50:59
+Attempting to connect to database at 2025-02-05 12:52:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:52:03
+Attempting to connect to database at 2025-02-05 12:52:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:52:06
+Attempting to connect to database at 2025-02-05 12:52:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:52:36
+Attempting to connect to database at 2025-02-05 12:52:46
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:52:46
+Attempting to connect to database at 2025-02-05 12:53:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:53:10
+Attempting to connect to database at 2025-02-05 12:53:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:53:24
+Attempting to connect to database at 2025-02-05 12:53:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:53:25
+Attempting to connect to database at 2025-02-05 12:53:51
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:53:51
+Attempting to connect to database at 2025-02-05 12:54:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:54:10
+Attempting to connect to database at 2025-02-05 12:54:57
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:54:57
+Attempting to connect to database at 2025-02-05 12:58:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:10
+Attempting to connect to database at 2025-02-05 12:58:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:18
+Attempting to connect to database at 2025-02-05 12:58:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:21
+Attempting to connect to database at 2025-02-05 12:58:37
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:37
+Attempting to connect to database at 2025-02-05 12:58:48
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:48
+Attempting to connect to database at 2025-02-05 12:58:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:50
+Attempting to connect to database at 2025-02-05 12:58:56
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:58:56
+Attempting to connect to database at 2025-02-05 12:59:20
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:59:20
+Attempting to connect to database at 2025-02-05 12:59:27
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:59:27
+Attempting to connect to database at 2025-02-05 12:59:36
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:59:36
+Attempting to connect to database at 2025-02-05 12:59:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:59:38
+Attempting to connect to database at 2025-02-05 12:59:38
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 12:59:38
+Attempting to connect to database at 2025-02-05 13:08:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:08:26
+Attempting to connect to database at 2025-02-05 13:08:26
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:08:26
+Attempting to connect to database at 2025-02-05 13:08:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:08:31
+Attempting to connect to database at 2025-02-05 13:09:03
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:03
+Attempting to connect to database at 2025-02-05 13:09:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:04
+Attempting to connect to database at 2025-02-05 13:09:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:06
+Attempting to connect to database at 2025-02-05 13:09:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:09
+Attempting to connect to database at 2025-02-05 13:09:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:10
+Attempting to connect to database at 2025-02-05 13:09:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:11
+Attempting to connect to database at 2025-02-05 13:09:24
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:24
+Attempting to connect to database at 2025-02-05 13:09:28
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:09:28
+Attempting to connect to database at 2025-02-05 13:12:11
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:12:11
+Attempting to connect to database at 2025-02-05 13:17:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:04
+Attempting to connect to database at 2025-02-05 13:17:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:04
+Attempting to connect to database at 2025-02-05 13:17:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:13
+Attempting to connect to database at 2025-02-05 13:17:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:13
+Attempting to connect to database at 2025-02-05 13:17:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:15
+Attempting to connect to database at 2025-02-05 13:17:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:15
+Attempting to connect to database at 2025-02-05 13:17:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:18
+Attempting to connect to database at 2025-02-05 13:17:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:18
+Attempting to connect to database at 2025-02-05 13:17:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:18
+Attempting to connect to database at 2025-02-05 13:17:21
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:21
+Attempting to connect to database at 2025-02-05 13:17:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:31
+Attempting to connect to database at 2025-02-05 13:17:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:31
+Attempting to connect to database at 2025-02-05 13:17:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:32
+Attempting to connect to database at 2025-02-05 13:17:32
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:32
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:33
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Attempting to connect to database at 2025-02-05 13:17:34
+Database: streamthunder_events
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Attempting to connect to database at 2025-02-05 13:17:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:34
+Database connection successful at 2025-02-05 13:17:34
+Attempting to connect to database at 2025-02-05 13:17:35
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:35
+Attempting to connect to database at 2025-02-05 13:17:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:52
+Attempting to connect to database at 2025-02-05 13:17:52
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:17:52
+Attempting to connect to database at 2025-02-05 13:18:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:18:01
+Attempting to connect to database at 2025-02-05 13:18:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:18:01
+Attempting to connect to database at 2025-02-05 13:18:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:18:31
+Attempting to connect to database at 2025-02-05 13:18:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:18:49
+Attempting to connect to database at 2025-02-05 13:18:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:18:49
+Attempting to connect to database at 2025-02-05 13:19:19
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:19:19
+Attempting to connect to database at 2025-02-05 13:19:22
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:19:22
+Attempting to connect to database at 2025-02-05 13:19:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:19:43
+Attempting to connect to database at 2025-02-05 13:19:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:19:43
+Attempting to connect to database at 2025-02-05 13:20:14
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:20:14
+Attempting to connect to database at 2025-02-05 13:20:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:20:44
+Attempting to connect to database at 2025-02-05 13:21:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:21:15
+Attempting to connect to database at 2025-02-05 13:21:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:21:44
+Attempting to connect to database at 2025-02-05 13:22:13
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:22:13
+Attempting to connect to database at 2025-02-05 13:22:43
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:22:43
+Attempting to connect to database at 2025-02-05 13:22:50
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:22:50
+Attempting to connect to database at 2025-02-05 13:22:54
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:22:54
+Attempting to connect to database at 2025-02-05 13:24:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:24:01
+Attempting to connect to database at 2025-02-05 13:24:01
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:24:01
+Attempting to connect to database at 2025-02-05 13:24:31
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:24:31
+Attempting to connect to database at 2025-02-05 13:25:02
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:02
+Attempting to connect to database at 2025-02-05 13:25:06
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:06
+Attempting to connect to database at 2025-02-05 13:25:08
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:08
+Attempting to connect to database at 2025-02-05 13:25:09
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:09
+Attempting to connect to database at 2025-02-05 13:25:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:18
+Attempting to connect to database at 2025-02-05 13:25:18
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:18
+Attempting to connect to database at 2025-02-05 13:25:29
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:29
+Attempting to connect to database at 2025-02-05 13:25:30
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:30
+Attempting to connect to database at 2025-02-05 13:25:33
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:33
+Attempting to connect to database at 2025-02-05 13:25:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:25:34
+Attempting to connect to database at 2025-02-05 13:26:04
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:26:04
+Attempting to connect to database at 2025-02-05 13:26:34
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:26:34
+Attempting to connect to database at 2025-02-05 13:26:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:26:40
+Attempting to connect to database at 2025-02-05 13:26:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:26:40
+Attempting to connect to database at 2025-02-05 13:27:10
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:27:10
+Attempting to connect to database at 2025-02-05 13:27:40
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:27:40
+Attempting to connect to database at 2025-02-05 13:27:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:27:44
+Attempting to connect to database at 2025-02-05 13:27:44
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:27:44
+Attempting to connect to database at 2025-02-05 13:28:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:28:15
+Attempting to connect to database at 2025-02-05 13:28:49
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:28:49
+Attempting to connect to database at 2025-02-05 13:29:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:29:15
+Attempting to connect to database at 2025-02-05 13:29:45
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:29:45
+Attempting to connect to database at 2025-02-05 13:30:15
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:30:15
+Attempting to connect to database at 2025-02-05 13:30:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:30:16
+Attempting to connect to database at 2025-02-05 13:30:16
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:30:16
+Attempting to connect to database at 2025-02-05 13:30:23
+Host: localhost
+Database: streamthunder_events
+Database connection successful at 2025-02-05 13:30:23
+Attempting to connect to database at 2025-02-05 13:39:20
+Host: localhost
+Database: getsport_stream
+Connection failed: Access denied for user 'getsport_streamer'@'localhost' (using password: YES)
+PHP version: 8.0.30
+MySQL client version: mysqlnd 8.0.30
+Attempting to connect to database at 2025-02-05 13:39:24
+Host: localhost
+Database: getsport_stream
+Connection failed: Access denied for user 'getsport_streamer'@'localhost' (using password: YES)
+PHP version: 8.0.30
+MySQL client version: mysqlnd 8.0.30
+Attempting to connect to database at 2025-02-05 13:39:25
+Host: localhost
+Database: getsport_stream
+Connection failed: Access denied for user 'getsport_streamer'@'localhost' (using password: YES)
+PHP version: 8.0.30
+MySQL client version: mysqlnd 8.0.30
+Attempting to connect to database at 2025-02-05 13:39:28
+Host: localhost
+Database: getsport_stream
+Connection failed: Access denied for user 'getsport_streamer'@'localhost' (using password: YES)
+PHP version: 8.0.30
+MySQL client version: mysqlnd 8.0.30
